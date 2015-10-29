@@ -2,7 +2,9 @@
 layout: post
 title:  "Celebrant me puppe robora"
 date:   2015-10-18 11:00:26 +0700
-categories: jekyll update
+categories: blog
+tags: hedgehog umbrella
+
 ---
 
 ## Hoste geminaque quamvis

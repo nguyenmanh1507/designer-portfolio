@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Mea longa renovamine arva"
+title:  "Dea saeva veluti Aetna"
 date:   2015-10-24 22:00:26 +0700
-categories: jekyll update
+categories: project
+tags: pupmkin
+
 ---
 
 ## Dea saeva veluti Aetna induruit regoque videre

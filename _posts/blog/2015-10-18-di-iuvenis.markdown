@@ -2,8 +2,9 @@
 layout: post
 title:  "Di iuvenis"
 date:   2015-10-18 22:00:26 +0700
-categories: jekyll update
+categories: blog
 featured: true
+tags: owl pupmkin umbrella
 
 ---
 

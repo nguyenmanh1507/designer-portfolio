@@ -2,7 +2,9 @@
 layout: post
 title:  "Nulli Pirithoum coirent"
 date:   2015-10-29 09:00:26 +0700
-categories: jekyll update
+categories: blog
+tags: umbrella
+
 ---
 
 ## Numenque in hae vulnere Glaucus si natus
