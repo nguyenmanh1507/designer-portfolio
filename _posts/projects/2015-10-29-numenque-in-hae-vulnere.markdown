@@ -3,6 +3,7 @@ layout: post
 title:  "Numenque in hae vulnere"
 date:   2015-10-29 09:00:26 +0700
 categories: project
+featured_image: "/images/monster08.jpg"
 tags: umbrella
 
 ---

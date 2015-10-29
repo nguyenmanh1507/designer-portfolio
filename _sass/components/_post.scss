@@ -31,3 +31,25 @@
 		display: inline;
 	}
 }
+
+// Single post page
+.post-header {
+	text-align: center;
+	margin: 0;
+}
+
+.post-meta {
+	color: $blue-color;
+	font-size: $h4-font-size;
+}
+
+.post-body {
+	width: 90%;
+	max-width: 40em;
+	margin: $h2-font-size auto;
+
+	@for $i from 1 through 4 {
+		max-width: 80%;
+		margin: $h2-font-size auto;
+	}
+}
