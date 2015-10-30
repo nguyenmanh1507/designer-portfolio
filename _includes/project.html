@@ -1,7 +1,7 @@
 <li class="project">
 	<a href="{{ project.url | prepend:site.baseurl }}">
 		<figure>
-			<img src="{{ project.featured_image }}" alt="{{ project.title }}">
+			<img src="{{ project.featured_image | prepend:site.baseurl }}" alt="{{ project.title }}">
 			<figcaption class="project-caption">
 				{{ project.title }}
 			</figcaption>
