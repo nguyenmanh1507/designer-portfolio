@@ -9,7 +9,7 @@ layout: default
 
     {% if page.featured_image %}
     <div class="post-image">
-    	<img src="{{ page.featured_image }}" alt="{{ page.title }}">
+    	<img src="{{ page.featured_image | prepend:site.baseurl }}" alt="{{ page.title }}">
     </div>
     {% endif %}
   </header>
