@@ -3,7 +3,7 @@ layout: post
 title:  "Lapsu satis"
 date:   2015-10-18 22:00:26 +0700
 categories: project
-featured_image: "/images/monster06.jpg"
+featured_image: "../images/monster06.jpg"
 tags: acorn2
 
 ---

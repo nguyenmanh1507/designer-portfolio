@@ -3,7 +3,7 @@ layout: post
 title:  "Dea saeva veluti Aetna"
 date:   2015-10-24 22:00:26 +0700
 categories: project
-featured_image: "/images/monster07.jpg"
+featured_image: "../images/monster07.jpg"
 tags: pupmkin
 
 ---
